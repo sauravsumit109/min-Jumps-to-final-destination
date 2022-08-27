@@ -1,1 +1,1 @@
-# min-Jumps-to-final-destination
+# MinJumps to final destination
